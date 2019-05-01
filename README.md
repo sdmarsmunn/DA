@@ -5,6 +5,6 @@ COMMANDS
 * apt install figlet
 * git clone https://github.com/sdmarsmunn/DA
 * cd DA
-* python2 dan.py
+* python2 da.py
 
 DONE!!
