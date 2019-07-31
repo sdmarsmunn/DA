@@ -20,7 +20,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print "Author   : sdmarsmunn"
+print "Author   : Sadam"
 print "Github   : https://github.com/sdmarsmunn"
 print "TEAM     : DPP TEAM"
 print
